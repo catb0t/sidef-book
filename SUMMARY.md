@@ -29,7 +29,8 @@
     * [Integer](syntax_and_semantics/literals/integer.md)
     * [Match](syntax_and_semantics/builtin_types/.md)
     * [Matrix](syntax_and_semantics/literals/matrix.md)
-    * [Nil and Null](syntax_and_semantics/literals/nil.md)
+    * [NamedParam](syntax_and_semantics/literals/namedparam.md)
+    * [Nil and Null](syntax_and_semantics/literals/nil_and_null.md)
     * [Rational](syntax_and_semantics/literals/rational.md)
     * [Range](syntax_and_semantics/literals/range.md)
     * [Regex](syntax_and_semantics/literals/regex.md)
@@ -84,7 +85,6 @@
   * [Enumerations](syntax_and_semantics/classes.md)
   * [Multidimensional arrays](syntax_and_semantics/matrices.md)
   * [Subsets](syntax_and_semantics/subsets.md)
-
 * [Programming tasks](programming_tasks/README.md)
    * 1
        * [100 doors](programming_tasks/1/100_doors.md)
