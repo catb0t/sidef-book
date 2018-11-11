@@ -49,7 +49,7 @@ say Black             # prints: 0
 say White             # prints: 1
 ```
 
-Alternatively, we have the possibility for specifying an initial value, which will get incremented after each declaration, by calling the method `.inc()`.
+Alternatively, we have the possibility for specifying an initial value, which will get incremented after each declaration, by calling the method `.inc()` / `++`.
 
 ```ruby
 enum |α="a", β|

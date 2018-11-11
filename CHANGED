@@ -1,4 +1,5 @@
-fix formatting and organisation in SUMMARY 
+fix formatting and organisation in SUMMARY
 new section for non-literal types: builtin types
-new page: enums, structures 
+new page: enums, structures
 deleted: "types" page as it covers user-defined types, and should be documented in Classes
+deleted: types from "literals" that have no literal representation
