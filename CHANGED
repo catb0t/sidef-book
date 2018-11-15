@@ -3,3 +3,5 @@ new section for non-literal types: builtin types
 new page: enums, structures
 deleted: "types" page as it covers user-defined types, and should be documented in Classes
 deleted: types from "literals" that have no literal representation
+clarify why there is no "builtin type" section for NamedParam
+clarify why there is a callable `Complex()` typename bound, but no "Float" or "Integer" typenames

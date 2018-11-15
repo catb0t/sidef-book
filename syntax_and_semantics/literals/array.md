@@ -1,4 +1,4 @@
-# Array
+# Array literals
 
 An Array is a collection of objects which can grow or shrink dynamically.
 

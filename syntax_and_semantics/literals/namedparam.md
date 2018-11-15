@@ -29,3 +29,5 @@ var a = a:1
 say baz(a)   # error: no matching function for parameter a
 say baz(\a)  # prints: Have REF(0x55f9455ca270), a: 1
 ```
+
+A NamedParam literal like those above is likely the only time a programmer would come into contact with the type in Sidef code; like `Glob`, the typename itself is not bound in a Sidef environment.
